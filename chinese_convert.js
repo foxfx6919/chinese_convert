@@ -21,5 +21,5 @@ M.cn2tw = function (text) {
 }
 
 M.tw2cn = function (text) {
-  return M.textMap(text, tw2cn)
+  return M.textMap(text, tw2cn)//123
 }
